@@ -1,6 +1,4 @@
 
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-Esercizio\Sui\Thread\3.iml
+Esercizio Sui Thread 3.iml
 .idea/
